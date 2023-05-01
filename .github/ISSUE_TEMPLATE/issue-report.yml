@@ -3,7 +3,8 @@ description: Report any problem here
 title: "[Bug]: "
 labels: ["Status: Awaiting triage"]
 body:
-   - type: markdown
+  - type: markdown
+    id: thanks-message
     attributes:
       value: |
         Thanks for taking the time to fill out this bug report!
