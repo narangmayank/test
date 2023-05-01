@@ -1,5 +1,6 @@
 blank_issues_enabled: true
 contact_links:
   - name: Bytebeam Support
-    mail: 'support@bytebeam.io'
+    email_configs:
+    - to: 'support@bytebeam.io'
     about: Reach out to bytebeam support team
