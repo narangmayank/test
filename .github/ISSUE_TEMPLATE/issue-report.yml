@@ -1,5 +1,6 @@
 name: Issue report
 description: Report any problem here
+title: "[Bug]: "
 labels: ["Status: Awaiting triage"]
 body:
   - type: checkboxes
