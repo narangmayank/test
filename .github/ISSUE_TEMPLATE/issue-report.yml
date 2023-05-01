@@ -3,6 +3,10 @@ description: Report any problem here
 title: "[Bug]: "
 labels: ["Status: Awaiting triage"]
 body:
+   - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report!
   - type: checkboxes
     id: checklist
     attributes:
